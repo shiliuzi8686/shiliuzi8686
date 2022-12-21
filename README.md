@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi welcome to my github👋
+
+### I'm 小小婷 💇
+
+### 我的旅程
+#### 2022.7 - 2022.9 苏州某小肠 ✨
+#### 2022.10 - 至今 上海哔哩哔哩公司 ✨
+
 
 <!--
 **shiliuzi8686/shiliuzi8686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
